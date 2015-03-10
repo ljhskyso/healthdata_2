@@ -1,0 +1,433 @@
+[ {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-02-18-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:56:01-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314561000
+  },
+  "body" : {
+    "date" : "2015-02-18",
+    "device" : "iOS",
+    "geodiameter_in_km" : 3.4653608798980713,
+    "walking_distance_in_km" : 0.510549008846283,
+    "active_time_in_seconds" : 1018,
+    "max_gait_speed_in_meter_per_second" : 2.437640905380249,
+    "coverage" : 0.030416667461395264
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-02-27-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-27T23:47:17-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425098837000
+  },
+  "body" : {
+    "date" : "2015-02-27",
+    "device" : "iOS",
+    "geodiameter_in_km" : 3.6239938735961914,
+    "walking_distance_in_km" : 1.4013479948043823,
+    "active_time_in_seconds" : 3469,
+    "max_gait_speed_in_meter_per_second" : 1.1968573331832886,
+    "coverage" : 0.6620138883590698
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-02-28-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-28T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425185999999
+  },
+  "body" : {
+    "date" : "2015-02-28",
+    "device" : "iOS",
+    "geodiameter_in_km" : 0.0,
+    "walking_distance_in_km" : 0.0,
+    "active_time_in_seconds" : 0,
+    "max_gait_speed_in_meter_per_second" : 0.0,
+    "coverage" : 0.4830092489719391
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-01-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-01T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425272399999
+  },
+  "body" : {
+    "date" : "2015-03-01",
+    "device" : "iOS",
+    "geodiameter_in_km" : 0.024828139692544937,
+    "walking_distance_in_km" : 0.0,
+    "active_time_in_seconds" : 60,
+    "max_gait_speed_in_meter_per_second" : 0.0,
+    "coverage" : 0.6132639050483704
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-02-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-02T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425358799999
+  },
+  "body" : {
+    "active_time_in_seconds" : 3021,
+    "walking_distance_in_km" : 2.361253499984741,
+    "date" : "2015-03-02",
+    "home" : {
+      "latitude" : 40.72399031900341,
+      "longitude" : -74.0362736005051
+    },
+    "leave_home_time" : "2015-03-02T12:47:40.000-05:00",
+    "max_gait_speed_in_meter_per_second" : 1.508470058441162,
+    "return_home_time" : "2015-03-02T18:03:15.000-05:00",
+    "geodiameter_in_km" : 3.742633581161499,
+    "coverage" : 0.7873263955116272,
+    "time_not_at_home_in_seconds" : 18935,
+    "device" : "iOS"
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-03-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-03T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425445199999
+  },
+  "body" : {
+    "active_time_in_seconds" : 3503,
+    "walking_distance_in_km" : 1.3330297470092773,
+    "date" : "2015-03-03",
+    "home" : {
+      "latitude" : 40.72402033847348,
+      "longitude" : -74.0362879495761
+    },
+    "leave_home_time" : "2015-03-03T11:56:38.000-05:00",
+    "max_gait_speed_in_meter_per_second" : 1.505608320236206,
+    "return_home_time" : "2015-03-03T19:12:21.000-05:00",
+    "geodiameter_in_km" : 3.5227115154266357,
+    "coverage" : 0.7563194632530212,
+    "time_not_at_home_in_seconds" : 26143,
+    "device" : "iOS"
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-04-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-04T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425531599999
+  },
+  "body" : {
+    "active_time_in_seconds" : 544,
+    "walking_distance_in_km" : 0.03428826108574867,
+    "date" : "2015-03-04",
+    "home" : {
+      "latitude" : 40.72402717651165,
+      "longitude" : -74.03626140323227
+    },
+    "leave_home_time" : null,
+    "max_gait_speed_in_meter_per_second" : 0.27225542068481445,
+    "return_home_time" : null,
+    "geodiameter_in_km" : 0.00886504352092743,
+    "coverage" : 0.6182639002799988,
+    "time_not_at_home_in_seconds" : 0,
+    "device" : "iOS"
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-05-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-05T21:25:40-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425608740000
+  },
+  "body" : {
+    "active_time_in_seconds" : 2354,
+    "walking_distance_in_km" : 2.8936707973480225,
+    "date" : "2015-03-05",
+    "home" : {
+      "latitude" : 40.72401888580872,
+      "longitude" : -74.03627436944298
+    },
+    "leave_home_time" : "2015-03-05T11:35:39.000-05:00",
+    "max_gait_speed_in_meter_per_second" : 3.213975191116333,
+    "return_home_time" : "2015-03-05T18:14:55.000-05:00",
+    "geodiameter_in_km" : 3.545224189758301,
+    "coverage" : 0.6259143352508545,
+    "time_not_at_home_in_seconds" : 23956,
+    "device" : "iOS"
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-06-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-06T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425704399999
+  },
+  "body" : {
+    "date" : "2015-03-06",
+    "device" : "iOS",
+    "geodiameter_in_km" : 3.639836072921753,
+    "walking_distance_in_km" : 1.0179895162582397,
+    "active_time_in_seconds" : 2367,
+    "max_gait_speed_in_meter_per_second" : 2.5395803451538086,
+    "coverage" : 0.7162152528762817
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-07-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-07T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425790799999
+  },
+  "body" : {
+    "date" : "2015-03-07",
+    "device" : "iOS",
+    "geodiameter_in_km" : 3.4779086112976074,
+    "walking_distance_in_km" : 0.6349903345108032,
+    "active_time_in_seconds" : 1945,
+    "max_gait_speed_in_meter_per_second" : 2.320842981338501,
+    "coverage" : 0.6937037110328674
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-08-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-08T23:59:59.999-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425877199999
+  },
+  "body" : {
+    "date" : "2015-03-08",
+    "device" : "iOS",
+    "geodiameter_in_km" : 6.926397800445557,
+    "walking_distance_in_km" : 1.0003197193145752,
+    "active_time_in_seconds" : 4280,
+    "max_gait_speed_in_meter_per_second" : 1.449158787727356,
+    "coverage" : 0.6063657402992249
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-09-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-09T23:59:59.999-04:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425959999999
+  },
+  "body" : {
+    "active_time_in_seconds" : 2379,
+    "walking_distance_in_km" : 0.5657880306243896,
+    "date" : "2015-03-09",
+    "home" : {
+      "latitude" : 40.72399828357123,
+      "longitude" : -74.0362724287061
+    },
+    "leave_home_time" : "2015-03-09T14:01:53.000-04:00",
+    "max_gait_speed_in_meter_per_second" : 0.7515830397605896,
+    "return_home_time" : "2015-03-09T21:31:46.000-04:00",
+    "geodiameter_in_km" : 3.595689535140991,
+    "coverage" : 0.7827893495559692,
+    "time_not_at_home_in_seconds" : 20988,
+    "device" : "iOS"
+  }
+}, {
+  "header" : {
+    "id" : "mobility-daily-summary-google:105828728476296201952-2015-03-10-ios",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-daily-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-10T02:12:21-04:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-DPU-v1.0-iOS",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425967941000
+  },
+  "body" : {
+    "active_time_in_seconds" : 0,
+    "walking_distance_in_km" : 0.0,
+    "date" : "2015-03-10",
+    "home" : {
+      "latitude" : 40.72401153642506,
+      "longitude" : -74.03628387966259
+    },
+    "leave_home_time" : null,
+    "max_gait_speed_in_meter_per_second" : 0.0,
+    "return_home_time" : null,
+    "geodiameter_in_km" : 0.0,
+    "coverage" : 0.09190972149372101,
+    "time_not_at_home_in_seconds" : 0,
+    "device" : "iOS"
+  }
+} ]

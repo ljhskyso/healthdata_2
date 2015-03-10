@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Health Data Lab2</title>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/freelancer.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+							<script src="http://d3js.org/d3.v3.js"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+			
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top">Health Data Lab2</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#portfolio">Mobility</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#about">PAM</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#contact">JAWBONE</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <div class="intro-text">
+                        <span class="name">Here Are The ResultS</span>
+                        <hr class="star-light">
+                        <span class="skills">Location Tracking   - - -   Mood Tracking   - - -   Sleeping Tracking</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobility Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Mobility ResultS</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+<!-- PIC 1 -->
+<link rel="stylesheet" href="app.css">
+<script src="app.js"></script>
+		<center><g1></g1></center>
+<!-- PIC 1 -->
+            </div>
+        </div>
+    </section>
+
+    <!-- PAM Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>PAM ResultS</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+						<h1></h1>
+						<center><h3>Mood Tracking</h3></center>
+<!-- PIC2 -->
+						
+		        <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		        <style type="text/css">
+		            .slice {
+		            }
+		            .slice:hover {
+		                stroke: grey;
+		            }
+		            .data-title {
+		                font-family: fantasy;
+		                /* I HAVE NEVER USED THIS FONT BEFORE! */
+		                dy:.35em;
+		                text-anchor: middle;
+		            }
+				        </style>
+<center><g2>						
+        <script type="text/javascript">
+            var dataset;
+            d3.json("./visual/pam.json", function (json) {
+                dataset = json.charts;
+                console.log("BOO!!! You suck, pie chart!");
+                console.log("Also");
+                dataset.map(function (d) {
+                    console.log(d.name + " - " + d.score);
+                });
+                visualize(dataset);
+            });
+            function visualize(dataset) {
+                var w = 620;
+                var h = 480;
+                var radius = Math.min(w, h) / 2; //change 2 to 1.4. It's hilarious.
+                //TODO: Generate colors randomly, but have them be apart.
+                var color = d3.scale.ordinal().range(["#7b4173", "#9ecae1", "#ff7f0e", "#bcbd22", "#8c564b", "#d62728"])
+                var arc = d3.svg.arc() //each datapoint will create one later.
+                .outerRadius(radius - 20)
+                    .innerRadius(0);
+                //well, if you set this to not 0 it becomes a donut chart!
+                var pie = d3.layout.pie()
+                    .sort(function (d) {
+                    return d.score;
+                })
+                    .value(function (d) {
+                    return d.score;
+                });
+                var svg = d3.select("body").select("g2").append("svg")
+                    .attr("width", w)
+                    .attr("height", h)
+                    .attr("class", "chart")
+                    .append("g") //someone to transform. Groups data.
+                .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");
+                //transform to the center.
+                //create the slices
+                var slices = svg.selectAll(".arc")
+                    .data(pie(dataset))
+                    .enter().append("g")
+                    .attr("class", "slice");
+                //and fill them
+                slices.append("path")
+                    .attr("d", arc)
+                    .style("fill", function (d, i) {
+                    return color(i);
+                });
+                //add text, even
+                slices.append("text")
+                    .attr("transform", function (d) {
+                    return "translate(" + arc.centroid(d) + ")";
+                })
+                    .attr("class", "data-title")
+                    .text(function (d) {
+                    return d.data.name;
+                });
+            }
+        </script>
+</g2></center>
+<!-- PIC2 -->
+						
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                </div>
+                <div class="col-lg-4">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Jawbone Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Jawbone Results</h2>
+										<h1>A Third Data Stream</h1>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+<!-- PIC3 -->
+						<style> /* set the CSS */
+						svg { font: 12px Arial;}
+						path { 
+						    stroke: steelblue;
+						    stroke-width: 2;
+						    fill: none;
+						}
+						.axis path,
+						.axis line {
+						    fill: none;
+						    stroke: grey;
+						    stroke-width: 1;
+						    shape-rendering: crispEdges;
+						}
+						</style>	
+							
+<center>
+	<h1></h1>
+	<h3>Sleep Quality</h3>
+	<g3>
+	<!-- load the d3.js library -->    
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+
+	<script>
+
+	// Set the dimensions of the canvas / graph
+	var margin = {top: 30, right: 20, bottom: 30, left: 50},
+	    width = 600 - margin.left - margin.right,
+	    height = 270 - margin.top - margin.bottom;
+
+	// Parse the date / time
+			// var parseDate = d3.time.format("%d-%b-%y").parse;
+			var parseDate = d3.time.format("%Y%m%d").parse;
+
+	// Set the ranges
+	var x = d3.time.scale().range([0, width]);
+	var y = d3.scale.linear().range([height, 0]);
+
+	// Define the axes
+	var xAxis = d3.svg.axis().scale(x)
+	    .orient("bottom").ticks(5);
+
+	var yAxis = d3.svg.axis().scale(y)
+	    .orient("left").ticks(5);
+
+	// Define the line
+	var valueline = d3.svg.line()
+	    .x(function(d) { return x(d.date); })
+	    .y(function(d) { return y(d.close); });
+    
+	// Adds the svg canvas
+	var svg = d3.select("body").select("g3")
+	    .append("svg")
+	        .attr("width", width + margin.left + margin.right)
+	        .attr("height", height + margin.top + margin.bottom)
+	    .append("g")
+	        .attr("transform", 
+	              "translate(" + margin.left + "," + margin.top + ")");
+
+	// Get the data
+	d3.csv("./visual/sleep.csv", function(error, data) {
+	    data.forEach(function(d) {
+	        d.date = parseDate(d.date);
+	        d.close = d.close;
+	    });
+
+	    // Scale the range of the data
+	    x.domain(d3.extent(data, function(d) { return d.date; }));
+	    y.domain([0, d3.max(data, function(d) { return d.close; })]);
+
+	    // Add the valueline path.
+	    svg.append("path")
+	        .attr("class", "line")
+	        .attr("d", valueline(data));
+
+	    // Add the X Axis
+	    svg.append("g")
+	        .attr("class", "x axis")
+	        .attr("transform", "translate(0," + height + ")")
+	        .call(xAxis);
+
+	    // Add the Y Axis
+	    svg.append("g")
+	        .attr("class", "y axis")
+	        .call(yAxis);
+
+	});
+
+	</script>
+</g3>
+</center>							
+<!-- PIC3 -->							
+						</div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Mobility</h3>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>PAM</h3>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Jawbone</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; CS5555 - Health Data, by Jiheng Lu & Zeyue Chen
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visble-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/freelancer.js"></script>
+
+</body>
+
+</html>
