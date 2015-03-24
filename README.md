@@ -2,7 +2,7 @@
 # Course Lab Repository
 # by Jiheng Lu
 
-Lab 2 & Lab3 Codes are included
+Lab 2 & Lab 3 Codes are included
 
 # For Lab 3
 
