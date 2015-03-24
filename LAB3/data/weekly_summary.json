@@ -1,0 +1,57 @@
+[ {
+  "header" : {
+    "id" : "ljhskyso",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "lab3-weekly-summary",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-23T19:20:14-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "lab3-jihenglu",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+			}
+  },
+  "body" : {
+    "start_date" : "2015-03-04",
+    "end_data" : "2015-03-10",
+    "avg_score" : 0.705371717,
+    "positive_factors" : 0.372,
+    "negative_factors" : 0.628,
+		"day_to_day_scores" : {
+			"day1" : {
+				"date" : "2015-03-04",
+				"score" : 0.444232369
+			},
+			"day2" : {
+				"date" : "2015-03-05",
+				"score" : 0.00
+			},
+			"day3" : {
+				"date" : "2015-03-06",
+				"score" : 2.50202447
+			},
+			"day4" : {
+				"date" : "2015-03-07",
+				"score" : 0.806689348
+			},
+			"day5" : {
+				"date" : "2015-03-08",
+				"score" : 0.313256203
+			},
+			"day6" : {
+				"date" : "2015-03-09",
+				"score" : 0.27886564
+			},
+			"day7" : {
+				"date" : "2015-03-10",
+				"score" : 0.592533993
+			}
+		}
+  }
+} ]
