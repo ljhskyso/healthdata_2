@@ -1,0 +1,3071 @@
+[ {
+  "header" : {
+    "id" : "164A5656-5A57-4619-B20E-A2FBC5E3A25C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:38-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284418000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "6F7C9DEB-B759-4886-8E4C-3E86262B290A",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:41-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284421000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.0019815110653,
+      "bearing" : -1,
+      "latitude" : 40.74124347123788,
+      "horizontal_accuracy" : 411.9214031421447,
+      "vertical_accuracy" : 17.29384889122882,
+      "altitude" : 12.33412456512451
+    }
+  }
+}, {
+  "header" : {
+    "id" : "18121418-902A-4AF2-9E4D-9B3464D3FF9A",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:41-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284421000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00198061225547,
+      "bearing" : -1,
+      "latitude" : 40.74125741651817,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.91128635406494
+    }
+  }
+}, {
+  "header" : {
+    "id" : "474BAA69-82B5-4E34-8DD0-11FCE030BE74",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:41-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284421000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00198151734679,
+      "bearing" : -1,
+      "latitude" : 40.7412434278686,
+      "horizontal_accuracy" : 411.9212000686655,
+      "vertical_accuracy" : 17.29384889122882,
+      "altitude" : 12.33412456512451
+    }
+  }
+}, {
+  "header" : {
+    "id" : "EB1BC3E5-0D2E-45D1-966C-6D29EB9B2793",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:41-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284421000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00198152362816,
+      "bearing" : -1,
+      "latitude" : 40.74124338450012,
+      "horizontal_accuracy" : 411.0534180596789,
+      "vertical_accuracy" : 17.29384889122882,
+      "altitude" : 12.33412456512451
+    }
+  }
+}, {
+  "header" : {
+    "id" : "6C3E1AAF-0E34-4104-A6D4-05306777D1DD",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:33:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284423000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "6B05FAD0-328E-422D-B59C-13B49DBA5783",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:34:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284483000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00201534045085,
+      "bearing" : -1,
+      "latitude" : 40.74123683370055,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.06191921234131
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1B59C003-D191-466B-A2A7-9D4D74E4951E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:35:29-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284529000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00205928411857,
+      "bearing" : -1,
+      "latitude" : 40.74123456188579,
+      "horizontal_accuracy" : 369.2522497667456,
+      "vertical_accuracy" : 18.06370545690956,
+      "altitude" : 12.06191921234131
+    }
+  }
+}, {
+  "header" : {
+    "id" : "62B9750C-87E6-4390-AD91-91AFD29E5743",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:34-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284714000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00208168972591,
+      "bearing" : -1,
+      "latitude" : 40.74127164393515,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.90668106079102
+    }
+  }
+}, {
+  "header" : {
+    "id" : "B0CCE2D2-52D4-4266-845E-E6428265D04C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:42-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284722000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "4CD22276-1DD2-428B-BD9D-91E83D164901",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284723000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00208153383025,
+      "bearing" : -1,
+      "latitude" : 40.74127181491644,
+      "horizontal_accuracy" : 283.3375832190446,
+      "vertical_accuracy" : 12.56159020920458,
+      "altitude" : 11.90668106079102
+    }
+  }
+}, {
+  "header" : {
+    "id" : "455FFAEE-6F6F-4782-BFD7-0DD037780436",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284723000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00208153793838,
+      "bearing" : -1,
+      "latitude" : 40.74127179368836,
+      "horizontal_accuracy" : 283.3248392389034,
+      "vertical_accuracy" : 12.56159020920458,
+      "altitude" : 11.90668106079102
+    }
+  }
+}, {
+  "header" : {
+    "id" : "7A2C5E3F-4CD8-485C-93FD-2696D59F1A52",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284723000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00200717568677,
+      "bearing" : -1,
+      "latitude" : 40.74122563534038,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.85659217834473
+    }
+  }
+}, {
+  "header" : {
+    "id" : "FFFEC637-AC2D-4748-BD7D-F69F01E9B445",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:38:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284725000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "77360653-2690-4298-AC94-EBB7EFC69DE3",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:42:33-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424284953000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "171BEE33-6DC3-4E9D-B98B-207C16DF55B1",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:43:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285025000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00200716693111,
+      "bearing" : -1,
+      "latitude" : 40.74122563204025,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 12.94959876422034,
+      "altitude" : 11.85659217834473
+    }
+  }
+}, {
+  "header" : {
+    "id" : "EA661237-766F-4D44-B996-28DE9498C47A",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:43:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285025000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00200716681125,
+      "bearing" : -1,
+      "latitude" : 40.74122563284522,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 12.94959876422034,
+      "altitude" : 11.85659217834473
+    }
+  }
+}, {
+  "header" : {
+    "id" : "BDB6F8CA-D865-4C0E-AA9B-686EB9E355EC",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:46:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285170000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00198069771022,
+      "bearing" : -1,
+      "latitude" : 40.741232907017,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.24719333648682
+    }
+  }
+}, {
+  "header" : {
+    "id" : "580D1B0D-7C12-43EF-9448-0B85D940D874",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:46:57-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285217000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "A8986607-ADC3-4BE9-8D44-754EDF08BB86",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:48:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285325000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00202343121094,
+      "bearing" : -1,
+      "latitude" : 40.7412440459317,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.25085067749023
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1B841918-FA61-4A7B-9A85-F132D81E74D7",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:48:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285325000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00202343114604,
+      "bearing" : -1,
+      "latitude" : 40.74124404635798,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.25085067749023
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C00947D9-E30D-4906-947A-319260207A67",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:48:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285325000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00202343108114,
+      "bearing" : -1,
+      "latitude" : 40.74124404678425,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.25085067749023
+    }
+  }
+}, {
+  "header" : {
+    "id" : "BF3EBC3A-88ED-4E1C-8DC9-83BCE7333A2C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:48:54-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285334000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00205473619731,
+      "bearing" : -1,
+      "latitude" : 40.74124576165544,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.45332717895508
+    }
+  }
+}, {
+  "header" : {
+    "id" : "AA7765EE-4672-4CBA-BAE1-93681B8215D0",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:50:18-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285418000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00205119993788,
+      "bearing" : -1,
+      "latitude" : 40.741256028705,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.44662475585938
+    }
+  }
+}, {
+  "header" : {
+    "id" : "5C8433AF-968F-4155-A0A7-7A34548CCDEA",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:53:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285623000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "6F232873-2398-4378-90F4-6FB2EA00C873",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:53:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285625000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00205119989032,
+      "bearing" : -1,
+      "latitude" : 40.7412560290218,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.44662475585938
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1ECC7723-E4FA-4D69-A3A2-4178A47B5805",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:53:45-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285625000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00205119984112,
+      "bearing" : -1,
+      "latitude" : 40.74125602933434,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.44662475585938
+    }
+  }
+}, {
+  "header" : {
+    "id" : "7FA0397B-F8B8-49F8-A465-BE8B73EF87E4",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:53:55-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285635000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00204281223222,
+      "bearing" : -1,
+      "latitude" : 40.74129581931531,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.4321117401123
+    }
+  }
+}, {
+  "header" : {
+    "id" : "D1022329-7E71-405B-8DC1-30A1733F741C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:54:03-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285643000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00204281218171,
+      "bearing" : -1,
+      "latitude" : 40.74129581963711,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 12.4321117401123
+    }
+  }
+}, {
+  "header" : {
+    "id" : "5C6FACBB-4F66-43A9-9546-B92A96F0BB52",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:58:34-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285914000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "low"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "0D3B2D69-253D-408F-9F44-B0407D83E181",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:58:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285926000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.0020029159716,
+      "bearing" : -1,
+      "latitude" : 40.74123366675022,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 11.60971409750392,
+      "altitude" : 11.82363986968994
+    }
+  }
+}, {
+  "header" : {
+    "id" : "29E032D6-960A-4C38-ADA7-66E9A2B77D3F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:58:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285926000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00201386551755,
+      "bearing" : -1,
+      "latitude" : 40.74124488034608,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.97615051269531
+    }
+  }
+}, {
+  "header" : {
+    "id" : "A037F1E3-CDE1-4F1B-AFD3-B41ACEA1C638",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:59:06-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285946000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.0020170427951,
+      "bearing" : -1,
+      "latitude" : 40.74124045888023,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.94622707366943
+    }
+  }
+}, {
+  "header" : {
+    "id" : "5EE93481-9B55-4BF8-BA65-660DF63A8956",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:59:44-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424285984000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "F02790E3-1062-4E01-8C1A-170A110D3A5B",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:00:17-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286017000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00200994961399,
+      "bearing" : -1,
+      "latitude" : 40.74126032104854,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.74564647674561
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1A0CD64F-2862-4CA5-B1A4-13C1AA07AACD",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:41-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286281000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "5ADD51B8-E544-4989-9CE3-84BB97F82D54",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286286000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00239191639943,
+      "bearing" : -1,
+      "latitude" : 40.74083131056149,
+      "horizontal_accuracy" : 1415.996734469036,
+      "vertical_accuracy" : 15.34813048071099,
+      "altitude" : 11.71869468688965
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1F761613-4147-4A18-9050-1CEABA7131BB",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286286000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00318930876752,
+      "bearing" : -1,
+      "latitude" : 40.74012073025013,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 15.34813048071099,
+      "altitude" : 11.71869468688965
+    }
+  }
+}, {
+  "header" : {
+    "id" : "3F7C4918-725D-4CD1-8ED9-D8D4D4584005",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286286000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00321971549906,
+      "bearing" : -1,
+      "latitude" : 40.74009362921376,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 15.34813048071099,
+      "altitude" : 11.71869468688965
+    }
+  }
+}, {
+  "header" : {
+    "id" : "03E0418D-5403-4AC4-B6D3-A6A694503220",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286286000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00179553382858,
+      "bearing" : -1,
+      "latitude" : 40.74108375371497,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.70484256744385
+    }
+  }
+}, {
+  "header" : {
+    "id" : "CF308FCB-69A5-46D9-AC8E-F36C719F44FC",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:04:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286288000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "15BE9489-29C2-4286-923B-D85190D1FCBD",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:08:09-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286489000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00186184712653,
+      "bearing" : -1,
+      "latitude" : 40.74081540561946,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 11.76253128051758
+    }
+  }
+}, {
+  "header" : {
+    "id" : "1D2F577C-FEAB-4B02-8E10-4232EC8ED71E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:09:36-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286576000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "0D916F31-4E4E-42A5-8D7D-9A02775E2F2B",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:09:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286588000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00242423301412,
+      "bearing" : -1,
+      "latitude" : 40.73999859774287,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 12.02656729590167,
+      "altitude" : 11.37390518188477
+    }
+  }
+}, {
+  "header" : {
+    "id" : "D0D96F0C-99D5-4177-B6EA-6AE981916510",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:10:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286646000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "3F69011E-3156-4F16-B078-D4529343A507",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:10:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286648000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00161482012348,
+      "bearing" : -1,
+      "latitude" : 40.73940108880546,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 7.376335144042969
+    }
+  }
+}, {
+  "header" : {
+    "id" : "45EA6AF1-409A-4ABC-A686-050A721BD986",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:10:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286648000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00158135627997,
+      "bearing" : -1,
+      "latitude" : 40.7393854175603,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 7.383387088775635
+    }
+  }
+}, {
+  "header" : {
+    "id" : "4DB0EBD6-58D4-4061-9149-0C45ACCD6014",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:11:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286708000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.00092701765125,
+      "bearing" : -1,
+      "latitude" : 40.73909373081936,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 8.747692108154297
+    }
+  }
+}, {
+  "header" : {
+    "id" : "06842FC1-0752-4AFA-9CFF-5E6B489CA30A",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:12:03-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286723000
+  },
+  "body" : {
+    "location" : {
+      "speed" : 1.360000014305115,
+      "longitude" : -74.00055575191416,
+      "bearing" : 108.28125,
+      "latitude" : 40.73885165158728,
+      "horizontal_accuracy" : 30,
+      "vertical_accuracy" : 3,
+      "altitude" : 8.93979263305664
+    }
+  }
+}, {
+  "header" : {
+    "id" : "5EA25C8C-CAA1-413E-ADE0-D906CEB74F9D",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:13:12-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286792000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "low"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "B7355333-39D1-445D-B0F6-321078BDF201",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:13:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286829000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99884479770516,
+      "bearing" : -1,
+      "latitude" : 40.73830271969689,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 14.62908565477441,
+      "altitude" : 5.846429347991943
+    }
+  }
+}, {
+  "header" : {
+    "id" : "AFF78540-9EB8-40E5-B632-F98AD9759524",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:14:03-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286843000
+  },
+  "body" : {
+    "location" : {
+      "speed" : 1.259999990463257,
+      "longitude" : -73.99871231994963,
+      "bearing" : 106.5234375,
+      "latitude" : 40.73818826586076,
+      "horizontal_accuracy" : 30,
+      "vertical_accuracy" : 4,
+      "altitude" : 8.7021484375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C98CAA2C-BFE4-4BB7-96D3-8CD8F07BEA55",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:14:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286889000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99755586908337,
+      "bearing" : -1,
+      "latitude" : 40.73768017989183,
+      "horizontal_accuracy" : 1211.371126350809,
+      "vertical_accuracy" : 10,
+      "altitude" : 8.7021484375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "AC4DFF88-4A3F-4D50-BB25-07C951785225",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:14:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286889000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.9967536674254,
+      "bearing" : -1,
+      "latitude" : 40.7371854886896,
+      "horizontal_accuracy" : 1211.379614420736,
+      "vertical_accuracy" : 10,
+      "altitude" : 8.7021484375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "B3B600CE-9DCE-4213-9C35-E2B116F042A5",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:14:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286889000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.9970937182735,
+      "bearing" : -1,
+      "latitude" : 40.73739505582314,
+      "horizontal_accuracy" : 1211.371149310433,
+      "vertical_accuracy" : 10,
+      "altitude" : 8.7021484375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "5C80CF3A-31B9-4959-9D0C-47D3F177DF23",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:14:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286889000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99650639767242,
+      "bearing" : -1,
+      "latitude" : 40.73703292400482,
+      "horizontal_accuracy" : 1211.380182349876,
+      "vertical_accuracy" : 10,
+      "altitude" : 8.7021484375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "59C9A247-B14B-41B8-B834-CB2F47FF970D",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:15:03-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286903000
+  },
+  "body" : {
+    "location" : {
+      "speed" : 0.3100000023841858,
+      "longitude" : -73.99657032459415,
+      "bearing" : 97.734375,
+      "latitude" : 40.73706182189354,
+      "horizontal_accuracy" : 30,
+      "vertical_accuracy" : 6,
+      "altitude" : 8.43841552734375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "2A269646-413E-4AFA-998B-8CFCF2DBE542",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:15:49-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286949000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99627267498103,
+      "bearing" : -1,
+      "latitude" : 40.7369311231163,
+      "horizontal_accuracy" : 1221.842524030096,
+      "vertical_accuracy" : 12,
+      "altitude" : 8.43841552734375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "3F8F1704-6591-4E62-B592-462840833162",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:15:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286950000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99615344089862,
+      "bearing" : -1,
+      "latitude" : 40.73684597673221,
+      "horizontal_accuracy" : 1221.842854382316,
+      "vertical_accuracy" : 12,
+      "altitude" : 8.43841552734375
+    }
+  }
+}, {
+  "header" : {
+    "id" : "3B2371F6-B631-41D9-8A2A-28063F53D4D4",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:16:26-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424286986000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "low"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "F4B27E1B-9A55-463C-8A0F-E2D12D6AC817",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:16:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287010000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99704089876738,
+      "bearing" : -1,
+      "latitude" : 40.7374143370541,
+      "horizontal_accuracy" : 165,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "4DBDD301-D8F6-411B-ADD3-5EF0D13D590D",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:16:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287010000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99696696403853,
+      "bearing" : -1,
+      "latitude" : 40.73739318505589,
+      "horizontal_accuracy" : 341.8018027987682,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "CC6B3DD0-708B-479A-9C44-25B943762CF0",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:16:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287010000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99689142096311,
+      "bearing" : -1,
+      "latitude" : 40.7373711594317,
+      "horizontal_accuracy" : 341.8023050131511,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C36CFD44-CDB8-4A08-8122-7F87DAAAAE10",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:17:47-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287067000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "walk",
+      "confidence" : "low"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "3388F7E8-D9EB-4577-9EFC-BF93295E2EA3",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:17:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287068000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.9971114909964,
+      "bearing" : -1,
+      "latitude" : 40.73689124967559,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "311416D2-DEB0-4849-822E-7856074BBF9C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:17:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287070000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99800102482845,
+      "bearing" : -1,
+      "latitude" : 40.73661806465824,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "F241E943-EA2E-4795-8EF4-E164F7A4E26A",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:18:11-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287091000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99800193977809,
+      "bearing" : -1,
+      "latitude" : 40.73661778366777,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "A0C49C85-E8CC-4C54-A008-FB98C851000F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:18:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287130000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.9980011508008,
+      "bearing" : -1,
+      "latitude" : 40.73661802597084,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "998B243E-566A-4CD1-8DA5-D91E0C787280",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:18:51-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287131000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "55EC6CC3-F7D6-43EC-B497-F43E5ADA5E32",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:18:51-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287131000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "ECBE2CC1-F56F-4129-9D84-031D4019D2AB",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:19:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287190000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99685964001668,
+      "bearing" : -1,
+      "latitude" : 40.73648899275053,
+      "horizontal_accuracy" : 2082.881919270155,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "F440E992-49FE-4508-9505-110360976FBA",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:23:44-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287424000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "B03ADC9A-1B51-44D7-8537-1F8415608CAB",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:23:51-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287431000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -73.99450194958605,
+      "bearing" : -1,
+      "latitude" : 40.73622954755155,
+      "horizontal_accuracy" : 3304.409126398721,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "D697A8AC-8470-40A7-9420-4D39EB6CE584",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:24:04-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287444000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "still",
+      "confidence" : "medium"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "2C6C6F94-8511-4A01-98D7-EE499B6C9C62",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:09-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287749000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "transport",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "AFE190EB-55C8-48CF-8E8C-F22710C2FE9E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.02583710712238,
+      "bearing" : -1,
+      "latitude" : 40.72888562668165,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C83CE8CF-BDCE-477A-879A-1915C3E31B8F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.02861230654356,
+      "bearing" : -1,
+      "latitude" : 40.72823521204614,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C9DB51BD-9DE9-46BA-A794-5E41FFDC6875",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03069389097502,
+      "bearing" : -1,
+      "latitude" : 40.72774735773729,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "19D80187-B8C0-4A90-B1DA-0B6892017A5E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03000026858685,
+      "bearing" : -1,
+      "latitude" : 40.7279099197981,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "406B3D80-3FE6-4A70-96B6-62925E2B8304",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03104064539829,
+      "bearing" : -1,
+      "latitude" : 40.72766609001389,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "F3317299-1505-45C9-B85E-34DE3FB2A496",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T14:29:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424287750000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03121464309791,
+      "bearing" : -1,
+      "latitude" : 40.72762531071066,
+      "horizontal_accuracy" : 2000,
+      "vertical_accuracy" : 19.7207811763398,
+      "altitude" : 8.523343086242676
+    }
+  }
+}, {
+  "header" : {
+    "id" : "151F2CC7-4DFE-4C43-A4D7-81C83314590C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:49:42-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314182000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.0363681310498,
+      "bearing" : -1,
+      "latitude" : 40.7239512896715,
+      "horizontal_accuracy" : 71.87144877642328,
+      "vertical_accuracy" : 10,
+      "altitude" : 4.516874313354492
+    }
+  }
+}, {
+  "header" : {
+    "id" : "7302E87A-B300-4162-8E60-D08BDC35B4F7",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314330000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "B8F45BC0-D954-4991-A024-51DF7D315865",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:25-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314345000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03643126600278,
+      "bearing" : -1,
+      "latitude" : 40.72388915554741,
+      "horizontal_accuracy" : 290.1009708016145,
+      "vertical_accuracy" : 23.62588999853035,
+      "altitude" : 4.516874313354492
+    }
+  }
+}, {
+  "header" : {
+    "id" : "0B7AA899-5A4F-4CDC-B6D9-7D5E7A664D35",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:25-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314345000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03640030317172,
+      "bearing" : -1,
+      "latitude" : 40.72391961436614,
+      "horizontal_accuracy" : 290.1009148437278,
+      "vertical_accuracy" : 23.62588999853035,
+      "altitude" : 4.516874313354492
+    }
+  }
+}, {
+  "header" : {
+    "id" : "3FAEC091-4AC4-4D11-9600-01F0B120CFA7",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:26-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314346000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03629438894924,
+      "bearing" : -1,
+      "latitude" : 40.72393417747733,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 9.351259231567383
+    }
+  }
+}, {
+  "header" : {
+    "id" : "58B703ED-C657-4AE3-B57F-4306E45842A4",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:33-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314353000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "61F2772A-441C-4E62-B83E-4B1AE432D92E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:33-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314353000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03625268293614,
+      "bearing" : -1,
+      "latitude" : 40.72398339509035,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 6.487604141235352
+    }
+  }
+}, {
+  "header" : {
+    "id" : "A2C4D8DC-A7F3-4B80-959A-FCAA7804E957",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:40-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314360000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03628681756892,
+      "bearing" : -1,
+      "latitude" : 40.72401457133432,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 6.132469654083252
+    }
+  }
+}, {
+  "header" : {
+    "id" : "C9A623B3-62CF-45A3-8AE6-63E429C81E62",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:46-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314366000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03623364011479,
+      "bearing" : -1,
+      "latitude" : 40.72405261672004,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.646869659423828
+    }
+  }
+}, {
+  "header" : {
+    "id" : "67A470EB-711D-4EF1-AEE3-CC28B9F8C89E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:52-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314372000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03619669834073,
+      "bearing" : -1,
+      "latitude" : 40.7239110327351,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 6.219360828399658
+    }
+  }
+}, {
+  "header" : {
+    "id" : "F6421B61-9C81-473A-B568-50B7E28B31CD",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:58-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314378000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03624919775297,
+      "bearing" : -1,
+      "latitude" : 40.72401709806933,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.570547580718994
+    }
+  }
+}, {
+  "header" : {
+    "id" : "038FC33E-364F-425D-A70E-8386B766BE7E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:04-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314384000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03626020597427,
+      "bearing" : -1,
+      "latitude" : 40.72400822196083,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.498026847839355
+    }
+  }
+}, {
+  "header" : {
+    "id" : "25935E89-759B-44CD-809D-446D0F000066",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:11-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314391000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03626088728382,
+      "bearing" : -1,
+      "latitude" : 40.72400264817988,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.386864185333252
+    }
+  }
+}, {
+  "header" : {
+    "id" : "50DB1C06-531A-4A6C-B609-0BB9880F2B33",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:13-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314393000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "9413DB76-57E0-4E4E-96EC-027AB53A2EFE",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:17-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314397000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.0362542042395,
+      "bearing" : -1,
+      "latitude" : 40.72397926942571,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.769055843353271
+    }
+  }
+}, {
+  "header" : {
+    "id" : "717F73F8-7307-48E8-A85C-FB0F48D4EA9D",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:20-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314400000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "1804846D-4271-4BE4-861F-CD132C2536FC",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:23-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314403000
+  },
+  "body" : {
+    "activities" : [ {
+      "activity" : "unknown",
+      "confidence" : "high"
+    } ]
+  }
+}, {
+  "header" : {
+    "id" : "9F8D87D3-EFFE-47A4-B3EF-CB2D89803432",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:24-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314404000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03620776868374,
+      "bearing" : -1,
+      "latitude" : 40.72403821705297,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.258150100708008
+    }
+  }
+}, {
+  "header" : {
+    "id" : "4E965517-E178-4458-8C85-4396A9D0B30C",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "mobility-stream-iOS",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:53:30-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "Mobility-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "sensed"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314410000
+  },
+  "body" : {
+    "location" : {
+      "speed" : -1,
+      "longitude" : -74.03628651067592,
+      "bearing" : -1,
+      "latitude" : 40.72403653707495,
+      "horizontal_accuracy" : 65,
+      "vertical_accuracy" : 10,
+      "altitude" : 5.724081993103027
+    }
+  }
+} ]

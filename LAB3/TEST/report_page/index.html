@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Lab 3 - Summary Report</title>
+		
+		<link rel="stylesheet" type="text/css" href="src/report.css"/>
+		
+		<link rel="stylesheet" type="text/css" href="src/gauge.css"/>
+    <script src="http://d3js.org/d3.v3.min.js" language="JavaScript"></script>
+		
+		
+</head>
+
+<body>
+	<div class="header">
+		<center><h1>Health Data Lab 3 - Summary Report</h1></center>
+	
+	</div>
+	
+	<div class="charts--container">
+	  <ul>
+			
+<!--Overall Score -->
+	    <li class="chart">
+	      <h3 class="chart--subHeadline">Chart 1</h3>
+	      <h2 class="chart--headline">Patient's Weekly Mental Health Score</h2>
+	      
+			  <script src="src/liquidFillGauge.js" language="JavaScript"></script>			
+				<div id="gauges">
+	
+					<svg id="fillgauge1" width="97%" height="250"></svg>
+					<!-- <svg id="fillgauge2" width="19%" height="200"></svg> -->
+					<!-- <svg id="fillgauge3" width="19%" height="200"></svg> -->
+					<!-- <svg id="fillgauge4" width="19%" height="200"></svg> -->
+					<!-- <svg id="fillgauge5" width="19%" height="200"></svg> -->
+					<!-- <svg id="fillgauge6" width="19%" height="200"></svg> -->
+					<script language="JavaScript">
+				    var config0 = liquidFillGaugeDefaultSettings();
+				    config0.waveAnimateTime = 2000;
+				    loadLiquidFillGauge("fillgauge1", 70.5, config0);
+					</script>
+				</div>
+	    </li>
+
+<!--Positive vs Negative -->
+	    <li class="chart">
+	      <h3 class="chart--subHeadline">Chart 2</h3>
+	      <h2 class="chart--headline">High Level Mental Health Score</h2>
+	      <div id="pieChart">
+	        <svg id="pieChartSVG">
+	          <defs>
+	            <filter id='pieChartInsetShadow'>
+	              <feOffset dx='0' dy='0'/>
+	              <feGaussianBlur stdDeviation='3' result='offset-blur' />
+	              <feComposite operator='out' in='SourceGraphic' in2='offset-blur' result='inverse' />
+	              <feFlood flood-color='black' flood-opacity='1' result='color' />
+	              <feComposite operator='in' in='color' in2='inverse' result='shadow' />
+	              <feComposite operator='over' in='shadow' in2='SourceGraphic' />
+	            </filter>
+	            <filter id="pieChartDropShadow">
+	              <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur" />
+	              <feOffset in="blur" dx="0" dy="3" result="offsetBlur" />
+	              <feMerge>
+	                <feMergeNode />
+	                <feMergeNode in="SourceGraphic" />
+	              </feMerge>
+	            </filter>
+	          </defs>
+	        </svg>
+	      </div>
+	    </li>
+			
+<!--Monthly Check -->
+	    <li class="chart">
+	      <h3 class="chart--subHeadline">Chart 3</h3>
+	      <h2 class="chart--headline">Weekly Scores History During the Month</h2>
+	      
+			  <script src="src/liquidFillGauge.js" language="JavaScript"></script>			
+				<div id="gauges">
+	
+					<!-- <svg id="fillgauge1" width="97%" height="250"></svg> -->
+					<center>
+					<svg id="fillgauge2" width="22%" height="200"></svg>
+					<svg id="fillgauge3" width="22%" height="200"></svg>
+					<svg id="fillgauge4" width="22%" height="200"></svg>
+					<svg id="fillgauge5" width="22%" height="200"></svg>
+					</center>
+					<!-- <svg id="fillgauge6" width="19%" height="200"></svg> -->
+					<script language="JavaScript">
+					    var config1 = liquidFillGaugeDefaultSettings();
+					    config1.circleColor = "#FF7777";
+					    config1.textColor = "#FF4444";
+					    config1.waveTextColor = "#FFAAAA";
+					    config1.waveColor = "#FFDDDD";
+					    config1.circleThickness = 0.2;
+					    config1.textVertPosition = 0.45;
+					    config1.waveAnimateTime = 2000;
+					    loadLiquidFillGauge("fillgauge2", 28.9, config1);
+							
+					    var config2 = liquidFillGaugeDefaultSettings();
+					    config2.circleColor = "#D4AB6A";
+					    config2.textColor = "#553300";
+					    config2.textSize = 0.7;
+					    config2.waveTextColor = "#805615";
+					    config2.waveColor = "#AA7D39";
+					    config2.circleThickness = 0.1;
+					    config2.circleFillGap = 0.2;
+					    config2.textVertPosition = 0.95;
+					    config2.waveAnimateTime = 2000;
+					    config2.waveHeight = 0.3;
+					    config2.waveCount = 1;
+					    loadLiquidFillGauge("fillgauge3", 60.1, config2);
+							
+					    var config3 = liquidFillGaugeDefaultSettings();
+					    config3.textVertPosition = 0.85;
+					    config3.waveAnimateTime = 5000;
+					    config3.waveHeight = 0.15;
+					    // config3.waveAnimate = false;
+					    config3.waveOffset = 0.25;
+					    config3.valueCountUp = false;
+					    // config3.displayPercent = false;
+					    loadLiquidFillGauge("fillgauge4", 57.1, config3);
+							
+					    var config4 = liquidFillGaugeDefaultSettings();
+					    config4.circleThickness = 0.15;
+					    config4.circleColor = "#808015";
+					    config4.textColor = "#555500";
+					    config4.waveTextColor = "#FFFFAA";
+					    config4.waveColor = "#AAAA39";
+					    config4.textVertPosition = 0.9;
+					    config4.waveAnimateTime = 1000;
+					    config4.waveHeight = 0.05;
+					    config4.waveAnimate = true;
+					    config4.waveRise = false;
+					    config4.waveOffset = 0.25;
+					    config4.textSize = 0.6;
+					    config4.waveCount = 3;
+					    loadLiquidFillGauge("fillgauge5", 70.5, config4);
+					</script>
+				</div>
+				
+
+	    </li>
+
+<!--Day To Day -->
+	    <li class="chart">
+	      <h3 class="chart--subHeadline">Chart 4</h3>
+	      <h2 class="chart--headline">Day to Day Score During the Week</h2>
+	      <div id="lineChart">
+	        <svg id="lineChartSVG" class="lineChart--svg">
+	          <defs>
+	            <linearGradient id="lineChart--gradientBackgroundArea" x1="0" x2="0" y1="0" y2="1">
+	              <stop class="lineChart--gradientBackgroundArea--top" offset="0%" />
+	              <stop class="lineChart--gradientBackgroundArea--bottom" offset="100%" />
+	            </linearGradient>
+	          </defs>
+	        </svg>
+	      </div>
+	    </li>
+
+<!--Appendix -->
+	    <li class="worddiv">
+	      <h3 class="chart--subHeadline">Appendix</h3>
+	      <h2 class="chart--headline">Some Clarification</h2>
+
+				<p>*  Summarized Score are calculated by:</p>
+				<p><center>Score =	SleepQuality * SleepTimeRatio * ActivityTimeRatio * (MoodPositive / MoodNegative)</center></p>
+				<p><center>SleepTimeRatio = SleepTime / DayTime;</center></p>
+				<p><center>ActivityTimeRatio = ActivityTime / DayTime;</center></p>
+				<p>** Again, this is an ASSUMPTION equation, which WILL BE REPLACED in the future for improving accuracy</p>
+
+	    </li>	  
+
+<!--Acknowledge -->
+	    <li class="worddiv2">
+	      <h3 class="chart--subHeadline">Acknowledge</h3>
+	      <h2 class="chart--headline">Reported Powered by Jiheng Lu</h2>
+
+				<center><h1>Thank you for reviewing!</h1></center>
+
+	    </li>	  
+
+		</ul>
+		
+		
+	</div>
+
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="src/report.js"></script>
+
+
+
+</body>
+
+</html>

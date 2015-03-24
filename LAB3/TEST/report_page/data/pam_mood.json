@@ -1,0 +1,869 @@
+[ {
+  "header" : {
+    "id" : "563B1223-92FF-4CAA-B894-EFFF895122E1",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T13:20:14-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424283614000
+  },
+  "body" : {
+    "affect_arousal" : 2,
+    "negative_affect" : 6,
+    "positive_affect" : 10,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-18T13:20:14-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "calm"
+  }
+}, {
+  "header" : {
+    "id" : "6A9B1C0D-096E-4D4B-971B-5DAD9B60C460",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-18T21:52:17-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424314337000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 7,
+    "positive_affect" : 11,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-18T21:52:17-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "happy"
+  }
+}, {
+  "header" : {
+    "id" : "6F5060A8-9C06-4CA1-9F00-07C46CA4FEEF",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-19T13:02:12-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424368932000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 3,
+    "positive_affect" : 15,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-19T13:02:12-05:00"
+    },
+    "affect_valence" : 4,
+    "mood" : "glad"
+  }
+}, {
+  "header" : {
+    "id" : "4A2DD8D9-4B67-4CB0-93F8-14ECAD896FBA",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-19T14:26:10-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424373970000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 8,
+    "positive_affect" : 12,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-19T14:26:10-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "excited"
+  }
+}, {
+  "header" : {
+    "id" : "FF5E19F3-3E57-4B4A-AF70-EAA9DF10DFC1",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-20T16:43:15-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424468595000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 7,
+    "positive_affect" : 11,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-20T16:43:15-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "happy"
+  }
+}, {
+  "header" : {
+    "id" : "017DF740-BBA1-454A-BCE8-C04471FFCCF9",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-21T14:31:43-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424547103000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-21T14:31:43-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "3C179ED4-3473-4B5B-9E5E-D4FD3FCC8F4F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-21T14:31:53-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424547113000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 1,
+    "positive_affect" : 13,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-21T14:31:53-05:00"
+    },
+    "affect_valence" : 4,
+    "mood" : "serene"
+  }
+}, {
+  "header" : {
+    "id" : "9EC3A834-A206-4D56-87E6-459311D3BA65",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-22T13:13:47-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424628827000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 11,
+    "positive_affect" : 7,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-22T13:13:47-05:00"
+    },
+    "affect_valence" : 2,
+    "mood" : "angry"
+  }
+}, {
+  "header" : {
+    "id" : "63A4A1E8-C1AE-4640-8427-2A9B8F72AF78",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-23T13:01:20-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424714480000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 16,
+    "positive_affect" : 4,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-23T13:01:20-05:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "afraid"
+  }
+}, {
+  "header" : {
+    "id" : "DA5CD78A-D7B8-48D5-8181-5E6582F40B28",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-23T22:47:47-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424749667000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-23T22:47:47-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "5A17B928-0E2E-42FB-B53C-BAF20905986B",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-24T11:21:09-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424794869000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-24T11:21:09-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "163AA78A-D799-41B4-8F51-AFF0C21B0E27",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-24T13:07:19-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424801239000
+  },
+  "body" : {
+    "affect_arousal" : 2,
+    "negative_affect" : 6,
+    "positive_affect" : 10,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-24T13:07:19-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "calm"
+  }
+}, {
+  "header" : {
+    "id" : "78BCEF10-0F0A-41EF-8B7D-E67731C9F276",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-24T18:59:09-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424822349000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 16,
+    "positive_affect" : 4,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-24T18:59:09-05:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "afraid"
+  }
+}, {
+  "header" : {
+    "id" : "A4F750FC-391D-4B92-A121-7C5EE19DE179",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-24T20:22:52-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424827372000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 13,
+    "positive_affect" : 1,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-24T20:22:52-05:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "gloomy"
+  }
+}, {
+  "header" : {
+    "id" : "F7BF00AB-BDEC-4792-81C6-9E71CD71147E",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-25T13:01:04-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424887264000
+  },
+  "body" : {
+    "affect_arousal" : 2,
+    "negative_affect" : 2,
+    "positive_affect" : 14,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-25T13:01:04-05:00"
+    },
+    "affect_valence" : 4,
+    "mood" : "satisfied"
+  }
+}, {
+  "header" : {
+    "id" : "A42B718A-2B0A-47DF-8D9D-56C14779A7BD",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-25T21:29:12-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1424917752000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 16,
+    "positive_affect" : 4,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-25T21:29:12-05:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "afraid"
+  }
+}, {
+  "header" : {
+    "id" : "6561253D-0BC6-4CFF-8D39-7E5EC6412C35",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-27T00:43:34-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425015814000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 9,
+    "positive_affect" : 5,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-27T00:43:34-05:00"
+    },
+    "affect_valence" : 2,
+    "mood" : "tired"
+  }
+}, {
+  "header" : {
+    "id" : "87146E44-1DE9-429C-8EBF-EFA3C123F38F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-27T10:05:08-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425049508000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 8,
+    "positive_affect" : 12,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-27T10:05:08-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "excited"
+  }
+}, {
+  "header" : {
+    "id" : "7EAA66D6-52D8-4FF1-9664-B182976FDDF3",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-27T13:07-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425060420000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 13,
+    "positive_affect" : 1,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-27T13:07:00-05:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "gloomy"
+  }
+}, {
+  "header" : {
+    "id" : "EA7DE90D-6954-4F1F-8837-F6BE790C5FBE",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-02-28T12:24:52-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425144292000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 7,
+    "positive_affect" : 11,
+    "effective_time_frame" : {
+      "date_time" : "2015-02-28T12:24:52-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "happy"
+  }
+}, {
+  "header" : {
+    "id" : "D555B5AA-57E3-4727-B8A6-2E987C9C6BFA",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-02T11:31:14-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425313874000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-02T11:31:14-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "E070F5F4-528A-4513-8016-C2C3BC581BF4",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-03T13:10:13-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425406213000
+  },
+  "body" : {
+    "affect_arousal" : 4,
+    "negative_affect" : 4,
+    "positive_affect" : 16,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-03T13:10:13-05:00"
+    },
+    "affect_valence" : 4,
+    "mood" : "delighted"
+  }
+}, {
+  "header" : {
+    "id" : "11BF1C04-0FB8-4592-A578-88D25DB8077F",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-04T13:15:52-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425492952000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-04T13:15:52-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "87116FC2-B084-4890-847E-D0180A3A6B81",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-04T16:56:48-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : null,
+    "creation_date_time_epoch_milli" : 1425506208000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 11,
+    "positive_affect" : 7,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-04T16:56:48-05:00"
+    },
+    "affect_valence" : 2,
+    "mood" : "angry"
+  }
+}, {
+  "header" : {
+    "id" : "534C013B-59C4-4265-AA04-2F966572F2C2",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-05T11:53-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : [ ],
+    "creation_date_time_epoch_milli" : 1425574380000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 11,
+    "positive_affect" : 7,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-05T11:53:00-05:00"
+    },
+    "affect_valence" : 2,
+    "mood" : "angry"
+  }
+}, {
+  "header" : {
+    "id" : "70DC40B1-836D-430B-90F4-C0A7F3F3A2D9",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-07T09:47:50-05:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : [ ],
+    "creation_date_time_epoch_milli" : 1425739670000
+  },
+  "body" : {
+    "affect_arousal" : 1,
+    "negative_affect" : 5,
+    "positive_affect" : 9,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-07T09:47:50-05:00"
+    },
+    "affect_valence" : 3,
+    "mood" : "sleepy"
+  }
+}, {
+  "header" : {
+    "id" : "7612F8E2-94FA-4FC3-A5CD-155D9FC65CEE",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-09T02:16:05-04:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : [ ],
+    "creation_date_time_epoch_milli" : 1425881765000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 15,
+    "positive_affect" : 3,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-09T02:16:05-04:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "frustrated"
+  }
+}, {
+  "header" : {
+    "id" : "6D6155AE-5936-4153-8620-02CD132B82FB",
+    "schema_id" : {
+      "namespace" : "cornell",
+      "name" : "photographic-affect-meter-scores",
+      "version" : {
+        "major" : 1,
+        "minor" : 0,
+        "qualifier" : null
+      }
+    },
+    "creation_date_time" : "2015-03-10T00:47:56-04:00",
+    "acquisition_provenance" : {
+      "source_name" : "PAM-iOS-1.0",
+      "source_creation_date_time" : null,
+      "modality" : "self-reported"
+    },
+    "media" : [ ],
+    "creation_date_time_epoch_milli" : 1425962876000
+  },
+  "body" : {
+    "affect_arousal" : 3,
+    "negative_affect" : 15,
+    "positive_affect" : 3,
+    "effective_time_frame" : {
+      "date_time" : "2015-03-10T00:47:56-04:00"
+    },
+    "affect_valence" : 1,
+    "mood" : "frustrated"
+  }
+} ]
