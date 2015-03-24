@@ -1,4 +1,6 @@
-# CS5555 - Health Data - Course Lab Repository - by Jiheng Lu
+# CS5555 - Health Data
+# Course Lab Repository
+# by Jiheng Lu
 
 Lab 2 & Lab3 Codes are included
 
